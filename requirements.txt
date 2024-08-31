@@ -1,0 +1,3 @@
+robotframework==4.0
+robotframework-seleniumlibrary==6.1.0
+robotframework-jsonlibrary
